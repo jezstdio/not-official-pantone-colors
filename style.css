@@ -1,0 +1,16 @@
+.box {
+    height: 128px;
+    width: 50%;
+}
+.name {
+    width: 50%;
+}
+
+.flex { display: flex; }
+.row { flex-direction: row; }
+.center {
+    align-items: center;
+    justify-content: center;;
+}
+
+.block { display: block; }

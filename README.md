@@ -1,0 +1,1 @@
+Colors fetched from https://www.pantone-colours.com which is not an Official Pantone color page.
